@@ -1,46 +1,53 @@
-# JavaScript Assignments and Capstone
+ JavaScript Assignments
 
-Beginner-friendly solutions for the six JavaScript assignments and the final capstone project.
 
-## Files
-- `assignment1.js` — variables, data types, and console output
-- `assignment2.js` + `assignment2.html` — prompts, number conversion, and tip calculation
-- `assignment3.js` — if/else, switch, and ternary operator
-- `assignment4.js` — for, while, do...while, break, and continue
-- `assignment5.js` — regular functions, arrow functions, default parameters, and block scope
-- `assignment6.js` — objects, `forEach()`, `filter()`, and `map()`
-- `capstone.js` + `capstone.html` — interactive product inventory and analytics
 
-## How to run assignments 1, 3, 4, 5, and 6
-1. Install Node.js from https://nodejs.org/ if needed.
-2. Open this folder in VS Code.
-3. Open Terminal → New Terminal.
-4. Run one file at a time, for example:
+This repository contains the JavaScript programs and assignments I've worked on while learning and practising JavaScript. The main aim of this work is to improve my understanding of programming concepts and become more comfortable writing code on my own.
+
+What's Included?
+
+This repository contains six JavaScript assignments and a final capstone project.
+
+Through these exercises, I've been practising concepts such as:
+
+- Variables and different data types
+- Strings and template literals
+- Arrays and objects
+- Loops and conditional statements
+- Functions and basic problem-solving
+- Working with JavaScript data and displaying output
+
+The assignments helped me practise these concepts through code rather than just learning the theory.
+
+ Technologies Used
+
+- JavaScript – for writing the programs
+- Node.js– for running JavaScript files on my computer
+- Visual Studio Code– for writing and testing the code
+- GitHub – for storing and sharing my work
+
+How to Run the Code
+
+If you'd like to try any of the programs on your computer, follow these steps:
+
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Make sure Node.js is installed on your computer.
+4. Open the terminal in VS Code.
+5. Run the JavaScript file using the following command:
+
    ```bash
-   node assignment1.js
+   node filename.js
    ```
-5. Replace the filename with `assignment3.js`, `assignment4.js`, `assignment5.js`, or `assignment6.js`.
 
-## How to run Assignment 2 and the capstone
-These files use browser `prompt()`, so open `assignment2.html` or `capstone.html` in a browser.
-1. In VS Code, right-click the relevant HTML file and choose **Open with Live Server** (if installed), or double-click the HTML file in File Explorer.
-2. Enter the requested values in the pop-up prompts.
-3. Press **F12**, open the **Console** tab, and read the output.
+   Replace `filename.js` with the name of the JavaScript file you want to run.
 
-For Assignment 2, enter `100` and `15` to get a subtotal of $100, tip of $15, and total of $115.
-For the capstone, enter `Monitor` and `150` to match the example in the assignment PDF.
+6. Check the terminal to see the output.
 
-## Upload to GitHub
-1. Create or sign in to an account at https://github.com/.
-2. Click **New repository** and name it `javascript-assignments`.
-3. Choose **Public** if you need to share a link with your instructor or reviewer. Do not upload passwords or private information.
-4. Create the repository.
-5. In the repository page, choose **Add file → Upload files**.
-6. Upload the files in this folder (including both HTML files and this README).
-7. Click **Commit changes**.
+ What I'm Learning
 
-Copy the repository URL from your browser. It will look like:
-`https://github.com/YOUR-USERNAME/javascript-assignments`
+I'm currently building my JavaScript fundamentals by solving assignments, testing different approaches, and learning from mistakes. Some programs may be simple, but each one is a step towards improving my coding and problem-solving skills.
 
-Replace `YOUR-USERNAME` with your actual GitHub username. The URL above is only an example, not your actual repository link.
-99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+I'll continue updating this repository as I practise more and learn new concepts.
+
+Thanks for visiting my repository.
